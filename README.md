@@ -27,7 +27,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## SURIMI
+## Abstract
 
 Indoor positioning based on machine learning models has attracted widespread interest in the last years, given its high performance, usability and potential for data compression. While  Autoencoder Extreme Learning Machine (AE-ELM) has been used to extract meaningful information from the datasets and represent it in a low dimension, k-Nearest Neighbour (k-NN) is still widely used for position estimation. This paper introduces a novel method to initialize the input weights in AE-ELM, namely Factorised Input Data (FID), which is based on the normalized form of the orthogonal component of the input data. We provide a comparative analysis with several traditional ways to initialize the input weights in AE-ELM, showing that FID provides a significantly better reconstruction error. Finally, we have performed an assessment with 13 indoor positioning datasets. The dimensionality of the datasets was reduced more than 11 times on average, while the positioning error suffered a small increment of only 15% (average) in comparison to the baseline.
 
@@ -61,14 +61,12 @@ The datasets can be downloaded either from authors' repository (see README file 
 
 ## Usage
 
-1. ** **
   * To run the experiments please use the following file.
 
 ```sh
   Run_EML_FID.m
 ```
 
-Once the models are trained you can change the "train" parameter to "False" in the config file (config.json) in order to use the model saved. If you want to train the models with different hyperparameters you can change them in the config file.
 <!-- LICENSE -->
 ## License
 
