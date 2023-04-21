@@ -37,10 +37,6 @@ Authors: Darwin Quezada-Gaibor, Joaquín Torres-Sospedra, Jari Nurmi, Yevgeni Ko
 
 This framework has been developed using:
 * [Matlab](https://www.mathworks.com/products/matlab.html)
-* [Python](https://www.python.org/)
-
-## Libraries (python)
-* pandas, numpy, seaborn, matplotlib, sklearn, tensorflow
 
 
 ## Datasets 
