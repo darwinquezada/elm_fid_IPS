@@ -55,10 +55,6 @@ The datasets can be downloaded either from authors' repository (see README file 
 
 ** Copy the datasets (.mat) into **databases** folder.
 
-```sh
-  python /miscellaneous/datasets_mat_to_csv.py
-```
-
 ## Usage
 
   * To run the experiments please use the following file.
